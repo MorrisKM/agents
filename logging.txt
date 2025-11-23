@@ -1,0 +1,20 @@
+Your conversation Log: 
+You: Hi I am Morris 
+AI: Hello, Morris! How can I assist you today?
+
+You: who am I 
+AI: You mentioned that your name is Morris. If there's anything specific you'd like to know or discuss about yourself, feel free to share!
+
+You: tell me the skeleton gut joke 
+AI: Sure! Here's a classic one:
+
+Why didn't the skeleton go to the party?
+
+Because he had *no body* to go with!
+
+You: why don't skeletons fight each other? 
+AI: Why don't skeletons fight each other?
+
+They don't have the guts!
+
+End of Conversation
